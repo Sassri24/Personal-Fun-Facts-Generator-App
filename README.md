@@ -1,6 +1,6 @@
 ---
 
-### **README.md**
+## **README.md**
 
 ```markdown
 🎲 **Fun Fact Generator** 🌟  
@@ -8,21 +8,21 @@ Welcome to the Fun Fact Generator repository! 🚀 This project is a simple web 
 
 ## 📖 What's Inside?
 
-### **HTML Structure 📄**
+## **HTML Structure 📄**
 - Provides the basic structure and layout of the app.
 - Includes a button to generate random fun facts.
 
-### **CSS Styling 🎨**
+## **CSS Styling 🎨**
 - Adds a personalized and responsive design.
 - Ensures a clean and engaging user interface.
 
-### **JavaScript Logic ⚙️**
+## **JavaScript Logic ⚙️**
 - Randomly selects fun facts from an array.
 - Updates the displayed fact dynamically with each button click.
 
 ## 🛠️ How to Use
 
-### Clone the Repository:
+## Clone the Repository:
 ```bash
 git clone https://github.com/YOUR-USERNAME/fun-fact-generator.git
 ```
