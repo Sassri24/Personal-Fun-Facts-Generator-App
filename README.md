@@ -51,7 +51,6 @@ Fork the repository, add new features or fun facts, and submit a pull request. L
 
 This project is licensed under the MIT License. 📝
 
----
 
 💡 **Start exploring and enjoy surprising facts today!** 🌟
 
