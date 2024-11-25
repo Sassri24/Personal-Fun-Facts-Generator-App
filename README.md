@@ -2,7 +2,6 @@
 
 ## **README.md**
 
-```markdown
 🎲 **Fun Fact Generator** 🌟  
 Welcome to the Fun Fact Generator repository! 🚀 This project is a simple web app that displays random fun facts at the click of a button. Perfect for a quick trivia break or to learn something new! 💡
 
@@ -57,4 +56,5 @@ This project is licensed under the MIT License. 📝
 ---
 
 💡 **Start exploring and enjoy surprising facts today!** 🌟
+
 ```
